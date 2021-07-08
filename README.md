@@ -2,7 +2,7 @@
 
 My name is Ewa Jodlowska.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: PyCon US 2021 will be my 14th PyCon US! 
+- ⚡ Fun fact: PyCon US 2021 was my 14th PyCon US! (and also my last as my tenure with the PSF will end Dec 2021)
 - 📫 How to reach me: [Follow me on Twitter](https://twitter.com/ewa_jodlowska)
 
 I am the Executive Director of the Python Software Foundation, which is the non-profit org behind Python and its community! I have been with the PSF since 2012 and previously worked on PyCon US since 2008. 
