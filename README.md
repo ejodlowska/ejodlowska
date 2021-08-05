@@ -21,6 +21,7 @@ Want to learn more about me and my background? Ricky White from Real Python [hos
 * November 2020 - [Python Software Foundation Highlight at OSCON](https://www.oreilly.com/library/view/oscon-open-source/0636920458838/video329971.html)
 * July 25, 2020 - PyOhio 2020 talk - [How the PSF Fared Through the Impact of the Pandemic](https://www.youtube.com/watch?v=XbKSsP84gQk)
 * May 2020 - PyCon US 2020 - [Python Software Foundation Community Address](https://www.youtube.com/watch?v=a05o1fV90jc)
+* December 2019 - SustainOS Podcast - [How the Python Software Foundation Works](https://podcast.sustainoss.org/18)
 * September 2019 - [PyColorado 2019 Keynote](https://www.youtube.com/watch?v=J-B_kthDhCU)
 * August 2019 - PyCon Africa Keynote (video not available)
 * May 2019 - [Ewa Jodlowska and Dmitry Filippov at PyCon 2019](https://www.youtube.com/watch?v=Des4oj8fTwY)
