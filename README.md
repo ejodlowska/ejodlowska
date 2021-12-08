@@ -2,12 +2,14 @@
 
 My name is Ewa Jodlowska. [Check out my website for more information](https://ejodlowska.github.io/)!
 - 😄 Pronouns: she/her
+- Woman founder and CEO of a security startup (currently in stealth mode being built!)
 - 🌱 I’m currently learning about [Haystack](https://haystack.deepset.ai/overview/get-started) and various AWS tools for production and deployment for a startup that will launch in several months! 
 - ⚡ Fun fact: PyCon US 2021 was my 14th PyCon US! (and also my last as my tenure with the PSF will end Dec 2021)
 - 📫 How to reach me: [Follow me on Twitter](https://twitter.com/ewa_jodlowska)
 - 💼 If we've collaborated, let's connect on [LinkedIn](https://www.linkedin.com/in/ewa-jodlowska-39810611/)!
+- Past Executive Director of the Python Software Foundation
+- Python Software Foundation Fellow
 
-I am the Executive Director of the Python Software Foundation, which is the non-profit org behind Python and its community! I have been with the PSF since 2012 and previously worked on PyCon US since 2008. 
 
 Want to learn more about me and my background? Ricky White from Real Python [hosted a great interview](https://realpython.com/interview-ewa-jodlowska/) in March of 2021.
 
