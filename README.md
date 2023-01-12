@@ -2,9 +2,9 @@
 
 My name is Ewa Jodlowska. [Check out my website for more information](https://ejodlowska.github.io/)!
 - 😄 Pronouns: she/her
-- Woman founder and CEO of a security startup (currently in stealth mode being built!)
+- Woman co-founder and CEO of a security startup (currently in stealth mode!)
 - 🌱 I’m currently learning about [Haystack](https://haystack.deepset.ai/overview/get-started) and various AWS tools for production and deployment for a startup that will launch in several months! 
-- ⚡ Fun fact: PyCon US 2021 was my 14th PyCon US! (and also my last as my tenure with the PSF will end Dec 2021)
+- ⚡ Fun fact: PyCon US 2021 was my 14th PyCon US! (and also my last as my tenure with the PSF ended Dec 2021)
 - 📫 How to reach me: [Follow me on Twitter](https://twitter.com/ewa_jodlowska)
 - 💼 If we've collaborated, let's connect on [LinkedIn](https://www.linkedin.com/in/ewa-jodlowska-39810611/)!
 - Past Executive Director of the Python Software Foundation
